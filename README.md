@@ -1,4 +1,4 @@
-# Machine learning/ Deep learning
+# Machine learning/ deep learning projects
 Machine learning: Toronto Police MCI analysis project(Authors include: Cuong, Rachel, Priyanka, Mohamed and Jirayu);
 
 Image classification and transfer learning using VGG16 mini-project; 

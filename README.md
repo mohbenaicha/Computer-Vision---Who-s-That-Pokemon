@@ -11,4 +11,4 @@ Image generation using CVAE - convolutional variational auto encoders mini-proje
 Natural language processing for semantic similarity using TFIDG, GloVe and BERT mini-project;
 
 
-Image scraper is in ipython format. It can be easily changed to an exe script.
+The image scraper is in ipython format. It can be easily changed to an exe script.

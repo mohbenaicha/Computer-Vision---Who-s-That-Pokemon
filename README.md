@@ -6,7 +6,7 @@
 
 3) Natural language processing for topic modelling using language models for detecting patterns in hate speech final project (coming soon);
 
-The image scraper script is in notebook py and ipynb formats. NOTE: To execute script, ensure dependencies (selenium and requests) are installed in the environment on which scraper is run before hand.
+The image scraper script is in script and notebook formats. NOTE: To execute script, ensure dependencies (selenium and requests) are installed in the environment on which scraper is run before hand.
 
 
 Mini projects include:

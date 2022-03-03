@@ -1,12 +1,12 @@
-# don't forget to install dependencies:
-# command line:
-# 1. activate environment: should be in a path like this one ( I use windows):
+# Don't forget to activate environment and install dependencies including 2,3:
+# Command line:
+# 1. conda activate <env_name>: should be in a path like this one ( I use windows):
 # C:\Users\Moham\PycharmProjects\generalscripts\venv\Scripts
 # 2. pip3 install selenium
 # 3. pip3 install requests
-# 4. download the chromedriver exe that is compatible with your Chrome browser and
-# place the exe under the directory where your script is contained
-# 5. find the downloaded image under a folder names "images"
+# 4. download the chromedriver.exe that is compatible with your Chrome browser versionand
+# place the exe under the directory where your script is contained, in my case it's: C:\Users\Moham\PycharmProjects\generalscripts\venv\Scripts
+# 5. find the downloaded image under a folder named "images" - change the name/directory of such a folder as an argument in line 94 of this script
 
 from selenium import webdriver
 import os
